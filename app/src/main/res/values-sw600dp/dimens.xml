@@ -1,0 +1,32 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="loading">28sp</dimen>
+    <dimen name="nothing_yet">32sp</dimen>
+    <dimen name="drawer_list_selected_item">10dp</dimen>
+    <dimen name="drawer_list_width">280dp</dimen>
+    <dimen name="drawer_list_item_text_size">30sp</dimen>
+    <dimen name="drawer_list_item_padding_x_axis">15dp</dimen>
+    <dimen name="drawer_list_item_padding_y_axis">10dp</dimen>
+    <dimen name="about_padding_content">20dp</dimen>
+    <dimen name="about_title_size">70sp</dimen>
+    <dimen name="about_text_size">30sp</dimen>
+    <dimen name="about_button_text_size">23sp</dimen>
+    <dimen name="about_hightlight_text_size">35sp</dimen>
+    <dimen name="settings_padding_content">15dp</dimen>
+    <dimen name="settings_list_item_text_size">30sp</dimen>
+    <dimen name="settings_list_item_summary_size">22sp</dimen>
+    <dimen name="group_description_text_size">40sp</dimen>
+    <dimen name="group_info_text_size">18sp</dimen>
+    <dimen name="group_numbers_text_size">30sp</dimen>
+    <dimen name="group_width_info_box">140sp</dimen>
+    <dimen name="group_address_text_size">22sp</dimen>
+    <dimen name="country_current_margin">30dp</dimen>
+    <dimen name="country_filter_margin">10dp</dimen>
+    <dimen name="route_list_item_title_size">32sp</dimen>
+    <dimen name="route_list_item_text_size">30sp</dimen>
+    <dimen name="route_list_item_data_size">40sp</dimen>
+    <dimen name="location_height">240dp</dimen>
+
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="horizontal"
+    android:padding="5dp" >
+
+    <TextView
+        android:id="@+id/hash"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone" />
+
+    <CheckBox
+        android:id="@+id/list_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:button="@drawable/p_ad_btn_check_holo_light"
+        android:checked="false" >
+    </CheckBox>
+
+    <LinearLayout
+        android:id="@+id/title_wrap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/buttons_wrap"
+        android:layout_toRightOf="@+id/list_checkbox"
+        android:baselineAligned="false"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="@dimen/loading" />
+
+        <TextView
+            android:id="@+id/shortened_url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/soft_grey"
+            android:textSize="@dimen/group_address_text_size" />
+
+        <TextView
+            android:id="@+id/url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/aa"
+            android:textSize="@dimen/group_address_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttons_wrap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/p_list_view_item"
+            android:contentDescription="@string/empty"
+            android:padding="5dp"
+            android:src="@drawable/share" />
+
+        <ImageView
+            android:layout_width="0.5dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@drawable/empty"
+            android:src="@color/soft_grey" />
+
+        <ImageButton
+            android:id="@+id/open"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/p_list_view_item"
+            android:contentDescription="@string/empty"
+            android:paddingBottom="5dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/open_out" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_select_all"
+        android:icon="@drawable/content_select_all"
+        android:showAsAction="always"
+        android:title="@string/action_label_select_all"/>
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@drawable/content_discard"
+        android:showAsAction="always"
+        android:title="@string/action_label_delete"/>
+
+</menu>

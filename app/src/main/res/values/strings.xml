@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="amount">
+        <item>US$ 1</item>
+        <item>US$ 2</item>
+        <item>US$ 3</item>
+        <item>US$ 5</item>
+        <item>US$ 10</item>
+        <item>US$ 15</item>
+    </string-array>
+
+    <string name="app_name">Unshorten It</string>
+    <string name="empty" translatable="false" />
+    <string name="insert_url">Insert a shortened url</string>
+    <string name="error_occurred">An error occurred. Try again!</string>
+    <string name="about">About</string>
+    <string name="share_via">Share via</string>
+    <string name="recent">Recent</string>
+    <string name="history">History</string>
+    <string name="action_label_delete">Delete</string>
+    <string name="action_label_select_all">Select all</string>
+    <string name="retry_later">Please retry in a few seconds.</string>
+    <string name="already_purchased">You have donated this value already! Thanks a lot!</string>
+    <string name="no_urls">No url has been found</string>
+    <string name="submit">Unshorten</string>
+    <string name="donate">Donate</string>
+    <string name="about_text">Unshorten It is currently one developer project and totally free.</string>
+    <string name="contact">Leonardo Cardoso\nandroid@leocardz.com</string>
+    <string name="would_you_donate">Would you like to donate to this project and support the developer?</string>
+    <string name="action_settings">Settings</string>
+    <string name="selected">selected</string>
+    <string name="selected_">selected</string>
+    <string name="spread_subject">Unshorten It App</string>
+    <string name="spread_text">Unshorten It! Check out this awesome app on Google Play at https://play.google.com/store/apps/details?id=com.leocardz.url.unshortener\u0026feature=search_result</string>
+    <string name="rate_it">Rate it</string>
+    <string name="share_it">Share it</string>
+
+</resources>
