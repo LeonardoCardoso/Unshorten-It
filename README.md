@@ -1,6 +1,8 @@
 Unshorten It
 =====================
 
+Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@LeonardoCardoso</a>. 
+
 A simple, beautiful, fast and useful url unshortener with link preview.
 
 Source code of the app https://play.google.com/store/apps/details?id=com.leocardz.url.unshortener&feature=search_result
