@@ -10,19 +10,19 @@ A simple, beautiful, fast and useful url unshortener with link preview.
 For more details, visit http://android.leocardz.com/url-unshortener/
 
 
-![](https://dl.dropboxusercontent.com/s/3c22cfnkg45av3d/1uu.png)
+![](http://i.imgur.com/Mlparqe.png)
 
-![](https://dl.dropboxusercontent.com/s/1jgwuelvd687unp/2uu.png)
+![](http://i.imgur.com/VzxYEtC.png)
 
-![](https://dl.dropboxusercontent.com/s/nmim9zwsrnuydui/3uu.png)
+![](http://i.imgur.com/o3465KC.png)
 
-![](https://dl.dropboxusercontent.com/s/pv762gt6r64o1bo/4uu.png)
+![](http://i.imgur.com/BMmAqkW.png)
 
-![](https://dl.dropboxusercontent.com/s/c9rgun4nlyxv3xx/5uu.png)
+![](http://i.imgur.com/lHDYrcJ.png)
 
-![](https://dl.dropboxusercontent.com/s/ky2q6ohq45zrrc1/6uu.png)
+![](http://i.imgur.com/wG4B2EE.png)
 
-![](https://dl.dropboxusercontent.com/s/4gf9ujj09wusban/7uu.png)
+![](http://i.imgur.com/nQ5IaoX.png)
 
 
 ## License
