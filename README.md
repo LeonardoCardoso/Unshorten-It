@@ -24,6 +24,8 @@ For more details, visit http://android.leocardz.com/url-unshortener/
 
 ![](http://i.imgur.com/nQ5IaoX.png)
 
+## Contact
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 ## License
 
