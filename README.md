@@ -7,8 +7,6 @@ A simple, beautiful, fast and useful url unshortener with link preview.
 
 [![URL](http://leocardz.com/utils/assets/img/company/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.leocardz.url.unshortener&feature=search_result)
 
-For more details, visit http://android.leocardz.com/url-unshortener/
-
 
 ![](http://i.imgur.com/Mlparqe.png)
 
